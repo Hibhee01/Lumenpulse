@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1627-contracts-consolidate-the-contract-inventory",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1627-contracts-consolidate-the-contract-inventory": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1627-contracts-consolidate-the-contract-inventory",
+    "origin"
+  ]
+}
